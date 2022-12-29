@@ -11,3 +11,5 @@ les 3 fichiers suivants :
       - Le fichier departements.geojson 
       - Les 2 éléments : dep_accident_pgrav.csv 
                          dep_accident_grav.csv
+
+Enfin, le rapport pdf est à disposition : Projet Machine Learning Miora Tsiry Randrianasolo.pdf
