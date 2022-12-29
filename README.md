@@ -1,6 +1,6 @@
 # -machine-learning-project
 
-Le premier programme principal "Projet mémoire Machine Learning Miora_Tsiry.py" est à exécuter en premier après avoir décompressé les BDD zippées : 
+Le premier programme principal "Projet mémoire Machine Learning Miora_Tsiry.py" est à exécuter en premier après avoir décompressé les BDD zippées :   
       - Les BDD zippées contiennent en tout 46 éléments
       
       
